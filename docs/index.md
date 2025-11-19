@@ -1,17 +1,17 @@
-# Welcome to MkDocs
+## **Diário de Cora**
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Olá! Meu nome é Augusta Cora, trabalho no **Escritório Central de Inovação e Automatização** da Seplag-MG. Gosto muito da área de tecnologia, apesar de ser ainda ter muito a aprender, e de comunicação. 
 
-## Commands
+Neste site, contarei um pouco sobre o curso que estou fazendo, o _Trilha Dev_, e como ele se relaciona ao meu trabalho. 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+[Me acompanhe no GitHub!](https://github.com/augustacora)
 
-## Project layout
+### Trabalho com:
+- Git e GitHub;
+- Automatização de processos;
+- Gestão do conhecimento.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### Quero me aprofundar em:
+- Javascript;
+- Python;
+- Desenvolvimento de APIs.

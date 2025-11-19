@@ -1,4 +1,4 @@
-## **Diário de Cora**
+# **Diário de Cora**
 
 Olá! Meu nome é Augusta Cora, trabalho no **Escritório Central de Inovação e Automatização** da Seplag-MG. Gosto muito da área de tecnologia, apesar de ser ainda ter muito a aprender, e de comunicação. 
 

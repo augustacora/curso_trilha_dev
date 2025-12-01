@@ -3,12 +3,27 @@ site_url: https://augustacora.github.io/curso_trilha_dev/
 theme:
   name: material
   palette:
-    scheme: slate
-    primary: teal
-    accent: amber
+    - scheme: slate
+      primary: teal
+      accent: amber
+      toggle:
+      icon: material/weather-night
+      name: Modo claro
+    - scheme: default
+      primary: teal
+      accent: amber
+      toggle: material/weather-sunny
+      name: Modo escuro
+
   font:
     text: Roboto
     code: Roboto Mono
+
+  features:
+  - navigation.instant
+  - navigation.tabs
+  - search.suggest
+
 
 plugins:
   - blog

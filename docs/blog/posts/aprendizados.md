@@ -1,3 +1,14 @@
+---
+date:
+    created: 2025-12-01
+---
+
+# Aprendizados do Trilha Dev até o momento
+
+Listagem do que o curso abarcou até agora.
+<!-- more -->
+
+
 ## AULA 01
 
 - Filosofia Docs as Code: documentação e código enquanto forma de organização das informações no ambiente de trabalho;

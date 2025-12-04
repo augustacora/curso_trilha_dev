@@ -1,5 +1,6 @@
 site_name: Diário de Cora
 site_url: https://augustacora.github.io/curso_trilha_dev/
+
 theme:
   name: material
   palette:
@@ -7,24 +8,27 @@ theme:
       primary: teal
       accent: amber
       toggle:
-      icon: material/weather-night
-      name: Modo claro
+        icon: material/weather-night
+        name: Modo claro
     - scheme: default
       primary: teal
       accent: amber
-      toggle: material/weather-sunny
-      name: Modo escuro
+      toggle:
+        icon: material/weather-sunny
+        name: Modo escuro
 
   font:
     text: Roboto
     code: Roboto Mono
 
   features:
-  - navigation.instant
-  - navigation.tabs
-  - search.suggest
-
-
+    - navigation.instant
+    - navigation.tabs
+    - content.tabs.link
+    - search.suggest
+    
 plugins:
-  - blog
-  - search
+  - blog:
+      archive: false
+  - search:
+      lang: pt

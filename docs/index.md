@@ -25,6 +25,8 @@ Olá! Meu nome é Augusta Cora, trabalho no **Escritório Central de Inovação 
 
 
 ### **Agora, uma imagem bonita!**
-(porque a vida também merece flores de vez em quando)
+(porque a vida também merece flores de vez em quando ✨✨)
 
-![imagem1](https://blush.design/api/download?shareUri=g3g4Jrq5otiokgSZ&w=800&h=800&fm=png)
+<p align="center">
+  <img src="https://blush.design/api/download?shareUri=g3g4Jrq5otiokgSZ&w=800&h=800&fm=png" width="500">
+</p>
